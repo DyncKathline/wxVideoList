@@ -1,5 +1,2 @@
-# miniprogress-videoList
-微信小程序视频列表播放和音频背景播放
-本来文章发表在简书，看到很多小伙伴说代码有问题运行不了，其实当时贴的只是项目的部分代码，直接运行肯定是不行的，所以现在把这个功能抽离出来，希望大家可以提出宝贵意见。
-简书文章地址：
-https://www.jianshu.com/p/caa7dd6b3e95
+### 基于[小程序视频列表中视频的播放与停止](https://www.jianshu.com/p/caa7dd6b3e95)
+后面实现了无感数据加载列表，具体请看[https://github.com/DyncKathline/wxVideoList](https://github.com/DyncKathline/wxVideoList)
